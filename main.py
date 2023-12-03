@@ -274,6 +274,6 @@ if __name__ == '__main__':
     application.add_handler(CommandHandler('test', send_to_testChanel))
     application.add_handler(CommandHandler('grupo', send_to_group))
     application.add_handler(CommandHandler('canal', send_to_channel))
-    application.add_handler(CommandHandler('config', config))
+    application.add_handler(CommandHandler('time', config))
     print('bot iniciado...')
     application.run_polling()
