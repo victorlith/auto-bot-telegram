@@ -1,0 +1,4511 @@
+('E:\\Meus Projetos\\Python\\Auto_Bot\\build\\main\\PYZ-00.pyz',
+ [('PIL',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('anyio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends._asyncio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'PYMODULE'),
+  ('anyio._backends._trio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'PYMODULE'),
+  ('anyio._core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('anyio._core._eventloop',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio._core._exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('anyio._core._fileio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'PYMODULE'),
+  ('anyio._core._resources',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
+   'PYMODULE'),
+  ('anyio._core._signals',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
+   'PYMODULE'),
+  ('anyio._core._sockets',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'PYMODULE'),
+  ('anyio._core._streams',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
+   'PYMODULE'),
+  ('anyio._core._subprocesses',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio._core._synchronization',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'PYMODULE'),
+  ('anyio._core._tasks',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'PYMODULE'),
+  ('anyio._core._testing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
+   'PYMODULE'),
+  ('anyio._core._typedattr',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'PYMODULE'),
+  ('anyio.abc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
+   'PYMODULE'),
+  ('anyio.abc._eventloop',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.abc._resources',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
+   'PYMODULE'),
+  ('anyio.abc._sockets',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.abc._streams',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
+   'PYMODULE'),
+  ('anyio.abc._subprocesses',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio.abc._tasks',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'PYMODULE'),
+  ('anyio.abc._testing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
+   'PYMODULE'),
+  ('anyio.from_thread',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\from_thread.py',
+   'PYMODULE'),
+  ('anyio.lowlevel',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\lowlevel.py',
+   'PYMODULE'),
+  ('anyio.streams',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
+   'PYMODULE'),
+  ('anyio.streams.memory',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
+   'PYMODULE'),
+  ('anyio.streams.stapled',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
+   'PYMODULE'),
+  ('anyio.streams.tls',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
+   'PYMODULE'),
+  ('anyio.to_thread',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\anyio\\to_thread.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('attr',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._config',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._make',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'E:\\Meus Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('gdshortener',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\gdshortener.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('h11',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._events',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._state',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('httpcore',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._api',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_api.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async.interfaces',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._async.socks_proxy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.anyio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._backends.mock',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._models',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_models.py',
+   'PYMODULE'),
+  ('httpcore._ssl',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_ssl.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync.interfaces',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._sync.socks_proxy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._synchronization',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_synchronization.py',
+   'PYMODULE'),
+  ('httpcore._trace',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_trace.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpx',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('httpx._compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_compat.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('httpx._content',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_content.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._main',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_main.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._multipart',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_multipart.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('httpx._transports.base',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_transports\\base.py',
+   'PYMODULE'),
+  ('httpx._transports.default',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_transports\\default.py',
+   'PYMODULE'),
+  ('httpx._transports.mock',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_transports\\mock.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._urlparse',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_urlparse.py',
+   'PYMODULE'),
+  ('httpx._urls',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_urls.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('idna',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('outcome',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\outcome\\__init__.py',
+   'PYMODULE'),
+  ('outcome._impl',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\outcome\\_impl.py',
+   'PYMODULE'),
+  ('outcome._util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\outcome\\_util.py',
+   'PYMODULE'),
+  ('outcome._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\outcome\\_version.py',
+   'PYMODULE'),
+  ('packaging',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.actions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.results',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.testing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('selenium',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\__init__.py',
+   'PYMODULE'),
+  ('selenium.common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\__init__.py',
+   'PYMODULE'),
+  ('selenium.common.exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\exceptions.py',
+   'PYMODULE'),
+  ('selenium.types',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\types.py',
+   'PYMODULE'),
+  ('selenium.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.remote_connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.action_chains',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\action_chains.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.action_builder',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\action_builder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.input_device',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\input_device.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.interaction',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\interaction.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_actions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_input',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.mouse_button',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\mouse_button.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_actions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_input',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.wheel_actions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\wheel_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.wheel_input',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\wheel_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.alert',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\alert.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.by',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\by.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.desired_capabilities',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\desired_capabilities.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.driver_finder',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\driver_finder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.html5',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.html5.application_cache',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\application_cache.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.keys',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\keys.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.print_page_options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\print_page_options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.proxy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\proxy.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.selenium_manager',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\selenium_manager.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.timeouts',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\timeouts.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.virtual_authenticator',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\virtual_authenticator.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_binary',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_binary.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_profile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_profile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.remote_connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.bidi_connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\bidi_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.command',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\command.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.errorhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.file_detector',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\file_detector.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.mobile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\mobile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.remote_connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.script_key',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\script_key.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.shadowroot',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\shadowroot.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.switch_to',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\switch_to.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webelement',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.remote_connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.relative_locator',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\relative_locator.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.options',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.service',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.webdriver',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\webdriver.py',
+   'PYMODULE'),
+  ('setuptools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._collections',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._distutils._functools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.bcppcompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.py37compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.register',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.upload',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py',
+   'PYMODULE'),
+  ('setuptools._distutils.config',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvc9compiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvccompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py38compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py39compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._adapters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._itertools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._legacy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.abc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.readers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.simple',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.actions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.diagram',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.helpers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.results',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.testing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.unicode',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.typing_extensions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
+   'PYMODULE'),
+  ('sniffio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sniffio\\__init__.py',
+   'PYMODULE'),
+  ('sniffio._impl',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sniffio\\_impl.py',
+   'PYMODULE'),
+  ('sniffio._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sniffio\\_version.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('socks',
+   'E:\\Meus Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('sortedcontainers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sortedcontainers\\__init__.py',
+   'PYMODULE'),
+  ('sortedcontainers.sorteddict',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sortedcontainers\\sorteddict.py',
+   'PYMODULE'),
+  ('sortedcontainers.sortedlist',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sortedcontainers\\sortedlist.py',
+   'PYMODULE'),
+  ('sortedcontainers.sortedset',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\sortedcontainers\\sortedset.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('telegram',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\__init__.py',
+   'PYMODULE'),
+  ('telegram._bot',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_bot.py',
+   'PYMODULE'),
+  ('telegram._botcommand',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_botcommand.py',
+   'PYMODULE'),
+  ('telegram._botcommandscope',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_botcommandscope.py',
+   'PYMODULE'),
+  ('telegram._botdescription',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_botdescription.py',
+   'PYMODULE'),
+  ('telegram._botname',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_botname.py',
+   'PYMODULE'),
+  ('telegram._callbackquery',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_callbackquery.py',
+   'PYMODULE'),
+  ('telegram._chat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chat.py',
+   'PYMODULE'),
+  ('telegram._chatadministratorrights',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatadministratorrights.py',
+   'PYMODULE'),
+  ('telegram._chatinvitelink',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatinvitelink.py',
+   'PYMODULE'),
+  ('telegram._chatjoinrequest',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatjoinrequest.py',
+   'PYMODULE'),
+  ('telegram._chatlocation',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatlocation.py',
+   'PYMODULE'),
+  ('telegram._chatmember',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatmember.py',
+   'PYMODULE'),
+  ('telegram._chatmemberupdated',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatmemberupdated.py',
+   'PYMODULE'),
+  ('telegram._chatpermissions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_chatpermissions.py',
+   'PYMODULE'),
+  ('telegram._choseninlineresult',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_choseninlineresult.py',
+   'PYMODULE'),
+  ('telegram._dice',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_dice.py',
+   'PYMODULE'),
+  ('telegram._files',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\__init__.py',
+   'PYMODULE'),
+  ('telegram._files._basemedium',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\_basemedium.py',
+   'PYMODULE'),
+  ('telegram._files._basethumbedmedium',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\_basethumbedmedium.py',
+   'PYMODULE'),
+  ('telegram._files.animation',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\animation.py',
+   'PYMODULE'),
+  ('telegram._files.audio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\audio.py',
+   'PYMODULE'),
+  ('telegram._files.chatphoto',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\chatphoto.py',
+   'PYMODULE'),
+  ('telegram._files.contact',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\contact.py',
+   'PYMODULE'),
+  ('telegram._files.document',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\document.py',
+   'PYMODULE'),
+  ('telegram._files.file',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\file.py',
+   'PYMODULE'),
+  ('telegram._files.inputfile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\inputfile.py',
+   'PYMODULE'),
+  ('telegram._files.inputmedia',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\inputmedia.py',
+   'PYMODULE'),
+  ('telegram._files.inputsticker',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\inputsticker.py',
+   'PYMODULE'),
+  ('telegram._files.location',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\location.py',
+   'PYMODULE'),
+  ('telegram._files.photosize',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\photosize.py',
+   'PYMODULE'),
+  ('telegram._files.sticker',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\sticker.py',
+   'PYMODULE'),
+  ('telegram._files.venue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\venue.py',
+   'PYMODULE'),
+  ('telegram._files.video',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\video.py',
+   'PYMODULE'),
+  ('telegram._files.videonote',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\videonote.py',
+   'PYMODULE'),
+  ('telegram._files.voice',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_files\\voice.py',
+   'PYMODULE'),
+  ('telegram._forcereply',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_forcereply.py',
+   'PYMODULE'),
+  ('telegram._forumtopic',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_forumtopic.py',
+   'PYMODULE'),
+  ('telegram._games',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_games\\__init__.py',
+   'PYMODULE'),
+  ('telegram._games.callbackgame',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_games\\callbackgame.py',
+   'PYMODULE'),
+  ('telegram._games.game',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_games\\game.py',
+   'PYMODULE'),
+  ('telegram._games.gamehighscore',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_games\\gamehighscore.py',
+   'PYMODULE'),
+  ('telegram._inline',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\__init__.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinekeyboardbutton',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinekeyboardbutton.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinekeyboardmarkup',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinekeyboardmarkup.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequery',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequery.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresult',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresult.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultarticle',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultarticle.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultaudio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultaudio.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedaudio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedaudio.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcacheddocument',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcacheddocument.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedgif',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedgif.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedmpeg4gif',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedmpeg4gif.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedphoto',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedphoto.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedsticker',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedsticker.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedvideo',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedvideo.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcachedvoice',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcachedvoice.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultcontact',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultcontact.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultdocument',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultdocument.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultgame',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultgame.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultgif',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultgif.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultlocation',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultlocation.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultmpeg4gif',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultmpeg4gif.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultphoto',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultphoto.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultsbutton',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultsbutton.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultvenue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultvenue.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultvideo',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultvideo.py',
+   'PYMODULE'),
+  ('telegram._inline.inlinequeryresultvoice',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inlinequeryresultvoice.py',
+   'PYMODULE'),
+  ('telegram._inline.inputcontactmessagecontent',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inputcontactmessagecontent.py',
+   'PYMODULE'),
+  ('telegram._inline.inputinvoicemessagecontent',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inputinvoicemessagecontent.py',
+   'PYMODULE'),
+  ('telegram._inline.inputlocationmessagecontent',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inputlocationmessagecontent.py',
+   'PYMODULE'),
+  ('telegram._inline.inputmessagecontent',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inputmessagecontent.py',
+   'PYMODULE'),
+  ('telegram._inline.inputtextmessagecontent',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inputtextmessagecontent.py',
+   'PYMODULE'),
+  ('telegram._inline.inputvenuemessagecontent',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_inline\\inputvenuemessagecontent.py',
+   'PYMODULE'),
+  ('telegram._keyboardbutton',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_keyboardbutton.py',
+   'PYMODULE'),
+  ('telegram._keyboardbuttonpolltype',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_keyboardbuttonpolltype.py',
+   'PYMODULE'),
+  ('telegram._keyboardbuttonrequest',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_keyboardbuttonrequest.py',
+   'PYMODULE'),
+  ('telegram._loginurl',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_loginurl.py',
+   'PYMODULE'),
+  ('telegram._menubutton',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_menubutton.py',
+   'PYMODULE'),
+  ('telegram._message',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_message.py',
+   'PYMODULE'),
+  ('telegram._messageautodeletetimerchanged',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_messageautodeletetimerchanged.py',
+   'PYMODULE'),
+  ('telegram._messageentity',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_messageentity.py',
+   'PYMODULE'),
+  ('telegram._messageid',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_messageid.py',
+   'PYMODULE'),
+  ('telegram._passport',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\__init__.py',
+   'PYMODULE'),
+  ('telegram._passport.credentials',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\credentials.py',
+   'PYMODULE'),
+  ('telegram._passport.data',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\data.py',
+   'PYMODULE'),
+  ('telegram._passport.encryptedpassportelement',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\encryptedpassportelement.py',
+   'PYMODULE'),
+  ('telegram._passport.passportdata',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\passportdata.py',
+   'PYMODULE'),
+  ('telegram._passport.passportelementerrors',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\passportelementerrors.py',
+   'PYMODULE'),
+  ('telegram._passport.passportfile',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_passport\\passportfile.py',
+   'PYMODULE'),
+  ('telegram._payment',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\__init__.py',
+   'PYMODULE'),
+  ('telegram._payment.invoice',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\invoice.py',
+   'PYMODULE'),
+  ('telegram._payment.labeledprice',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\labeledprice.py',
+   'PYMODULE'),
+  ('telegram._payment.orderinfo',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\orderinfo.py',
+   'PYMODULE'),
+  ('telegram._payment.precheckoutquery',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\precheckoutquery.py',
+   'PYMODULE'),
+  ('telegram._payment.shippingaddress',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\shippingaddress.py',
+   'PYMODULE'),
+  ('telegram._payment.shippingoption',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\shippingoption.py',
+   'PYMODULE'),
+  ('telegram._payment.shippingquery',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\shippingquery.py',
+   'PYMODULE'),
+  ('telegram._payment.successfulpayment',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_payment\\successfulpayment.py',
+   'PYMODULE'),
+  ('telegram._poll',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_poll.py',
+   'PYMODULE'),
+  ('telegram._proximityalerttriggered',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_proximityalerttriggered.py',
+   'PYMODULE'),
+  ('telegram._replykeyboardmarkup',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_replykeyboardmarkup.py',
+   'PYMODULE'),
+  ('telegram._replykeyboardremove',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_replykeyboardremove.py',
+   'PYMODULE'),
+  ('telegram._sentwebappmessage',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_sentwebappmessage.py',
+   'PYMODULE'),
+  ('telegram._shared',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_shared.py',
+   'PYMODULE'),
+  ('telegram._story',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_story.py',
+   'PYMODULE'),
+  ('telegram._switchinlinequerychosenchat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_switchinlinequerychosenchat.py',
+   'PYMODULE'),
+  ('telegram._telegramobject',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_telegramobject.py',
+   'PYMODULE'),
+  ('telegram._update',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_update.py',
+   'PYMODULE'),
+  ('telegram._user',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_user.py',
+   'PYMODULE'),
+  ('telegram._userprofilephotos',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_userprofilephotos.py',
+   'PYMODULE'),
+  ('telegram._utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('telegram._utils.argumentparsing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\argumentparsing.py',
+   'PYMODULE'),
+  ('telegram._utils.datetime',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\datetime.py',
+   'PYMODULE'),
+  ('telegram._utils.defaultvalue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\defaultvalue.py',
+   'PYMODULE'),
+  ('telegram._utils.enum',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\enum.py',
+   'PYMODULE'),
+  ('telegram._utils.files',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\files.py',
+   'PYMODULE'),
+  ('telegram._utils.logging',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\logging.py',
+   'PYMODULE'),
+  ('telegram._utils.markup',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\markup.py',
+   'PYMODULE'),
+  ('telegram._utils.repr',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\repr.py',
+   'PYMODULE'),
+  ('telegram._utils.types',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\types.py',
+   'PYMODULE'),
+  ('telegram._utils.warnings',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_utils\\warnings.py',
+   'PYMODULE'),
+  ('telegram._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_version.py',
+   'PYMODULE'),
+  ('telegram._videochat',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_videochat.py',
+   'PYMODULE'),
+  ('telegram._webappdata',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_webappdata.py',
+   'PYMODULE'),
+  ('telegram._webappinfo',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_webappinfo.py',
+   'PYMODULE'),
+  ('telegram._webhookinfo',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_webhookinfo.py',
+   'PYMODULE'),
+  ('telegram._writeaccessallowed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\_writeaccessallowed.py',
+   'PYMODULE'),
+  ('telegram.constants',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\constants.py',
+   'PYMODULE'),
+  ('telegram.error',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\error.py',
+   'PYMODULE'),
+  ('telegram.ext',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\__init__.py',
+   'PYMODULE'),
+  ('telegram.ext._aioratelimiter',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_aioratelimiter.py',
+   'PYMODULE'),
+  ('telegram.ext._application',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_application.py',
+   'PYMODULE'),
+  ('telegram.ext._applicationbuilder',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_applicationbuilder.py',
+   'PYMODULE'),
+  ('telegram.ext._basehandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_basehandler.py',
+   'PYMODULE'),
+  ('telegram.ext._basepersistence',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_basepersistence.py',
+   'PYMODULE'),
+  ('telegram.ext._baseratelimiter',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_baseratelimiter.py',
+   'PYMODULE'),
+  ('telegram.ext._baseupdateprocessor',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_baseupdateprocessor.py',
+   'PYMODULE'),
+  ('telegram.ext._callbackcontext',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_callbackcontext.py',
+   'PYMODULE'),
+  ('telegram.ext._callbackdatacache',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_callbackdatacache.py',
+   'PYMODULE'),
+  ('telegram.ext._callbackqueryhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_callbackqueryhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._chatjoinrequesthandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_chatjoinrequesthandler.py',
+   'PYMODULE'),
+  ('telegram.ext._chatmemberhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_chatmemberhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._choseninlineresulthandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_choseninlineresulthandler.py',
+   'PYMODULE'),
+  ('telegram.ext._commandhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_commandhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._contexttypes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_contexttypes.py',
+   'PYMODULE'),
+  ('telegram.ext._conversationhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_conversationhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._defaults',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_defaults.py',
+   'PYMODULE'),
+  ('telegram.ext._dictpersistence',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_dictpersistence.py',
+   'PYMODULE'),
+  ('telegram.ext._extbot',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_extbot.py',
+   'PYMODULE'),
+  ('telegram.ext._inlinequeryhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_inlinequeryhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._jobqueue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_jobqueue.py',
+   'PYMODULE'),
+  ('telegram.ext._messagehandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_messagehandler.py',
+   'PYMODULE'),
+  ('telegram.ext._picklepersistence',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_picklepersistence.py',
+   'PYMODULE'),
+  ('telegram.ext._pollanswerhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_pollanswerhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._pollhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_pollhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._precheckoutqueryhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_precheckoutqueryhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._prefixhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_prefixhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._shippingqueryhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_shippingqueryhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._stringcommandhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_stringcommandhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._stringregexhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_stringregexhandler.py',
+   'PYMODULE'),
+  ('telegram.ext._typehandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_typehandler.py',
+   'PYMODULE'),
+  ('telegram.ext._updater',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_updater.py',
+   'PYMODULE'),
+  ('telegram.ext._utils',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('telegram.ext._utils.stack',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_utils\\stack.py',
+   'PYMODULE'),
+  ('telegram.ext._utils.trackingdict',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_utils\\trackingdict.py',
+   'PYMODULE'),
+  ('telegram.ext._utils.types',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_utils\\types.py',
+   'PYMODULE'),
+  ('telegram.ext._utils.webhookhandler',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\_utils\\webhookhandler.py',
+   'PYMODULE'),
+  ('telegram.ext.filters',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\ext\\filters.py',
+   'PYMODULE'),
+  ('telegram.helpers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\helpers.py',
+   'PYMODULE'),
+  ('telegram.request',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\request\\__init__.py',
+   'PYMODULE'),
+  ('telegram.request._baserequest',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\request\\_baserequest.py',
+   'PYMODULE'),
+  ('telegram.request._httpxrequest',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\request\\_httpxrequest.py',
+   'PYMODULE'),
+  ('telegram.request._requestdata',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\request\\_requestdata.py',
+   'PYMODULE'),
+  ('telegram.request._requestparameter',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\request\\_requestparameter.py',
+   'PYMODULE'),
+  ('telegram.warnings',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\telegram\\warnings.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('trio',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\__init__.py',
+   'PYMODULE'),
+  ('trio._abc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_abc.py',
+   'PYMODULE'),
+  ('trio._channel',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_channel.py',
+   'PYMODULE'),
+  ('trio._core',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('trio._core._asyncgens',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_asyncgens.py',
+   'PYMODULE'),
+  ('trio._core._entry_queue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_entry_queue.py',
+   'PYMODULE'),
+  ('trio._core._exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('trio._core._generated_instrumentation',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_generated_instrumentation.py',
+   'PYMODULE'),
+  ('trio._core._generated_io_epoll',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_generated_io_epoll.py',
+   'PYMODULE'),
+  ('trio._core._generated_io_kqueue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_generated_io_kqueue.py',
+   'PYMODULE'),
+  ('trio._core._generated_io_windows',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_generated_io_windows.py',
+   'PYMODULE'),
+  ('trio._core._generated_run',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_generated_run.py',
+   'PYMODULE'),
+  ('trio._core._instrumentation',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_instrumentation.py',
+   'PYMODULE'),
+  ('trio._core._io_common',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_io_common.py',
+   'PYMODULE'),
+  ('trio._core._io_epoll',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_io_epoll.py',
+   'PYMODULE'),
+  ('trio._core._io_kqueue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_io_kqueue.py',
+   'PYMODULE'),
+  ('trio._core._io_windows',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_io_windows.py',
+   'PYMODULE'),
+  ('trio._core._ki',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_ki.py',
+   'PYMODULE'),
+  ('trio._core._local',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_local.py',
+   'PYMODULE'),
+  ('trio._core._mock_clock',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_mock_clock.py',
+   'PYMODULE'),
+  ('trio._core._multierror',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_multierror.py',
+   'PYMODULE'),
+  ('trio._core._parking_lot',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_parking_lot.py',
+   'PYMODULE'),
+  ('trio._core._run',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_run.py',
+   'PYMODULE'),
+  ('trio._core._thread_cache',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_thread_cache.py',
+   'PYMODULE'),
+  ('trio._core._traps',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_traps.py',
+   'PYMODULE'),
+  ('trio._core._unbounded_queue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_unbounded_queue.py',
+   'PYMODULE'),
+  ('trio._core._wakeup_socketpair',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_wakeup_socketpair.py',
+   'PYMODULE'),
+  ('trio._core._windows_cffi',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_core\\_windows_cffi.py',
+   'PYMODULE'),
+  ('trio._deprecate',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_deprecate.py',
+   'PYMODULE'),
+  ('trio._dtls',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_dtls.py',
+   'PYMODULE'),
+  ('trio._file_io',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_file_io.py',
+   'PYMODULE'),
+  ('trio._highlevel_generic',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_generic.py',
+   'PYMODULE'),
+  ('trio._highlevel_open_tcp_listeners',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_open_tcp_listeners.py',
+   'PYMODULE'),
+  ('trio._highlevel_open_tcp_stream',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_open_tcp_stream.py',
+   'PYMODULE'),
+  ('trio._highlevel_open_unix_stream',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_open_unix_stream.py',
+   'PYMODULE'),
+  ('trio._highlevel_serve_listeners',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_serve_listeners.py',
+   'PYMODULE'),
+  ('trio._highlevel_socket',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_socket.py',
+   'PYMODULE'),
+  ('trio._highlevel_ssl_helpers',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_highlevel_ssl_helpers.py',
+   'PYMODULE'),
+  ('trio._path',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_path.py',
+   'PYMODULE'),
+  ('trio._signals',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_signals.py',
+   'PYMODULE'),
+  ('trio._socket',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_socket.py',
+   'PYMODULE'),
+  ('trio._ssl',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_ssl.py',
+   'PYMODULE'),
+  ('trio._subprocess',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_subprocess.py',
+   'PYMODULE'),
+  ('trio._subprocess_platform',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_subprocess_platform\\__init__.py',
+   'PYMODULE'),
+  ('trio._subprocess_platform.kqueue',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_subprocess_platform\\kqueue.py',
+   'PYMODULE'),
+  ('trio._subprocess_platform.waitid',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_subprocess_platform\\waitid.py',
+   'PYMODULE'),
+  ('trio._subprocess_platform.windows',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_subprocess_platform\\windows.py',
+   'PYMODULE'),
+  ('trio._sync',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_sync.py',
+   'PYMODULE'),
+  ('trio._threads',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_threads.py',
+   'PYMODULE'),
+  ('trio._timeouts',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_timeouts.py',
+   'PYMODULE'),
+  ('trio._unix_pipes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_unix_pipes.py',
+   'PYMODULE'),
+  ('trio._util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_util.py',
+   'PYMODULE'),
+  ('trio._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_version.py',
+   'PYMODULE'),
+  ('trio._wait_for_object',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_wait_for_object.py',
+   'PYMODULE'),
+  ('trio._windows_pipes',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\_windows_pipes.py',
+   'PYMODULE'),
+  ('trio.abc',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\abc.py',
+   'PYMODULE'),
+  ('trio.from_thread',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\from_thread.py',
+   'PYMODULE'),
+  ('trio.lowlevel',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\lowlevel.py',
+   'PYMODULE'),
+  ('trio.socket',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\socket.py',
+   'PYMODULE'),
+  ('trio.testing',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\__init__.py',
+   'PYMODULE'),
+  ('trio.testing._check_streams',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\_check_streams.py',
+   'PYMODULE'),
+  ('trio.testing._checkpoints',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\_checkpoints.py',
+   'PYMODULE'),
+  ('trio.testing._memory_streams',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\_memory_streams.py',
+   'PYMODULE'),
+  ('trio.testing._network',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\_network.py',
+   'PYMODULE'),
+  ('trio.testing._sequencer',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\_sequencer.py',
+   'PYMODULE'),
+  ('trio.testing._trio_test',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\testing\\_trio_test.py',
+   'PYMODULE'),
+  ('trio.to_thread',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\trio\\to_thread.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\zipimport.py',
+   'PYMODULE')])
