@@ -11,10 +11,43 @@ from io import BytesIO
 from PIL import Image
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+import os
 
 
-bot_token = '6740759609:AAEUwDtlGdchE1URj3GY6kKVwBbJ7d6g6ZU'
 path_file_json_config = 'config.json'
+
+
+#config.json
+def load_configs():
+    global time_sleep, token, id_grupo, id_canal, id_test, id_magazineluiza, link_grupo, link_canal
+    try:
+        if os.path.exists(path_file_json_config):
+            with open(path_file_json_config, 'r') as file:
+                config = json.load(file)
+                time_sleep = int(config['timesleep'])
+                token = config['token_bot']
+                id_grupo = config['id_grupo']
+                id_canal = config['id_canal']
+                id_test = config['id_test']
+                id_magazineluiza = config['id_magazineluiza']
+                link_grupo = config['link_grupo']
+                link_canal = config['link_canal']
+        else:
+            with open(path_file_json_config, 'w') as file:
+                configs = {'timesleep': 0,
+                           'token_bot': '',
+                           'id_grupo': '',
+                           'id_canal': '',
+                           'id_test': '',
+                           'id_magazineluiza': '',
+                           'link_grupo': '',
+                           'link_canal': ''}
+                json.dump(configs, file, indent=2)
+    except Exception as e:
+        print(f'Erro: {e}')
+
+
+load_configs()
 
 
 class MarketPlace:
@@ -27,7 +60,6 @@ class MarketPlace:
         platform = self._formata_texto(find_plataform)
         navigator = webdriver.Chrome(options=chrome_op)
         navigator.get(self.url)
-        time.sleep(time_sleep)
         self._site_html = BeautifulSoup(navigator.page_source, 'html.parser')
         if platform == 'aliexpress':
             self._scrapingAliexpress()
@@ -38,10 +70,11 @@ class MarketPlace:
         elif platform == 'magalu' or 'magazinevoce' or 'bit' or 'tid':
             request_link = requests.get(self.url).url
             new_link = request_link.split('/', 4)
-            new_link[3] = 'magazinepromotionsdayof'
+            new_link[3] = id_magazineluiza
             new = '/'.join(new_link)
             self.url = self.shorten_link(new)
             self._scrapingMagazine()
+        time.sleep(time_sleep)
 
     def shorten_link(self, link):
         s = gdshortener.ISGDShortener()
@@ -73,7 +106,7 @@ class MarketPlace:
         try:
             self.product_name = self._site_html.find('h1', {'data-pl': 'product-title'}).get_text().strip()
             price = self._site_html.find('div', class_='es--wrap--erdmPRe notranslate')
-            div_image = self._site_html.find('div', 'magnifier--image--L4hZ4dC magnifier--zoom--ZrD3Iv8')
+            div_image = self._site_html.find('div', 'magnifier--wrap--hQvf3up')
             product_image = div_image.find('img')
             self.src_image = product_image['src']
             image_request = requests.get(self.src_image)
@@ -122,12 +155,12 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Hello friend!')
 
 
-async def config(update: Update, context: ContextTypes.DEFAULT_TYPE, ):
+async def set_time_sleep(update: Update, context: ContextTypes.DEFAULT_TYPE, ):
     command = ' '.join(context.args)
     if command == '':
         with open(path_file_json_config, 'r') as file:
             dados = json.load(file)
-        await update.message.reply_text('Time Sleep: ' + str(dados['timesleep']))
+        await update.message.reply_text('💤 Time Sleep atual: ' + str(dados['timesleep']) + ' segundos')
     else:
         try:
             with open(path_file_json_config, 'r') as file:
@@ -135,7 +168,7 @@ async def config(update: Update, context: ContextTypes.DEFAULT_TYPE, ):
             with open(path_file_json_config, 'w') as file:
                 dados['timesleep'] = int(command)
                 json.dump(dados, file, indent=2)
-            await update.message.reply_text(f'Informação salva!\nNovo Time Sleep definido: {command}')
+            await update.message.reply_text(f'💤 Time Sleep definido para: {command} segundos')
         except Exception as e:
             await update.message.reply_text(f'Erro: {e}')
 
@@ -150,16 +183,10 @@ def loadConfig():
         print(f'Falha: {e}')
 
 
-def creat_load_file_config():
-    dados = {"timesleep": 1}
-    with open(path_file_json_config, 'w') as file:
-        json.dump(dados, file, indent=2)
-
-
 async def send_to_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
     url = ' '.join(context.args)
-    chat_id = '-1002080560081'
-    tempo = loadConfig()
+    chat_id = id_grupo
+    tempo = time_sleep
     count_number = 0
     await update.message.reply_text(f'⚙️ Preparando link(s)...\n⏱️ Time sleep: {tempo} segundos')
     link = url.split(' ')
@@ -175,7 +202,7 @@ async def send_to_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 imagem.save('img.png')
                 path_img = 'img.png'
                 text = (f'📢 {dados.product_name}\n\n💶 {dados.money_amount}\n🎟 CUPOM: \n✅ {dados.url}\n\n▶️Grupos de ofertas:\n'
-                        f'https://beacons.ai/promotionsday')
+                        f'{link_grupo}')
                 await context.bot.send_photo(chat_id=chat_id, photo=open(path_img, 'rb'), caption=text)
                 tf = time.time()
                 await update.message.reply_text(f'☑️ Link {count_number} enviado! ⏱️ Tempo: {(tf - ti):.2f} segundos')
@@ -195,8 +222,8 @@ async def send_to_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def send_to_channel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     url = ' '.join(context.args)
-    chat_id = '-1001851569093'
-    tempo = loadConfig()
+    chat_id = id_canal
+    tempo = time_sleep
     count_number = 0
     await update.message.reply_text(f'⚙️ Preparando link(s)...\n⏱️ Time sleep: {tempo} segundos')
     link = url.split(' ')
@@ -212,7 +239,7 @@ async def send_to_channel(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 imagem.save('img.png')
                 path_img = 'img.png'
                 text = (f'📢 {dados.product_name}\n\n💶 {dados.money_amount}\n🎟 CUPOM: \n✅ {dados.url}\n\n▶️Grupos de ofertas:\n'
-                        f'https://beacons.ai/promotionsday')
+                        f'{link_canal}')
                 await context.bot.send_photo(chat_id=chat_id, photo=open(path_img, 'rb'), caption=text)
                 tf = time.time()
                 await update.message.reply_text(f'☑️ Link {count_number} enviado! ⏱️ Tempo: {(tf - ti):.2f} segundos')
@@ -232,8 +259,8 @@ async def send_to_channel(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def send_to_testChanel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     url = ' '.join(context.args)
-    chat_id = '-1002102705353'
-    tempo = loadConfig()
+    chat_id = id_test
+    tempo = time_sleep
     count_number = 0
     await update.message.reply_text(f'⚙️ Preparando link(s)...\n⏱️ Time sleep: {tempo} segundos')
     link = url.split(' ')
@@ -249,7 +276,7 @@ async def send_to_testChanel(update: Update, context: ContextTypes.DEFAULT_TYPE)
                 imagem.save('img.png')
                 path_img = 'img.png'
                 text = (f'📢 {dados.product_name}\n\n💶 {dados.money_amount}\n🎟 CUPOM: \n✅ {dados.url}\n\n▶️Grupos de ofertas:\n'
-                        f'https://beacons.ai/promotionsday')
+                        f'{link_grupo}')
                 await context.bot.send_photo(chat_id=chat_id, photo=open(path_img, 'rb'), caption=text)
                 tf = time.time()
                 await update.message.reply_text(f'☑️ Link {count_number} enviado! ⏱️ Tempo: {(tf - ti):.2f} segundos')
@@ -268,12 +295,16 @@ async def send_to_testChanel(update: Update, context: ContextTypes.DEFAULT_TYPE)
 
 
 if __name__ == '__main__':
-    creat_load_file_config()
-    application = ApplicationBuilder().token(bot_token).build()
-    application.add_handler(CommandHandler('start', start))
-    application.add_handler(CommandHandler('test', send_to_testChanel))
-    application.add_handler(CommandHandler('grupo', send_to_group))
-    application.add_handler(CommandHandler('canal', send_to_channel))
-    application.add_handler(CommandHandler('time', config))
-    print('bot iniciado...')
-    application.run_polling()
+    try:
+        application = ApplicationBuilder().token(token).build()
+        application.add_handler(CommandHandler('start', start))
+        application.add_handler(CommandHandler('test', send_to_testChanel))
+        application.add_handler(CommandHandler('grupo', send_to_group))
+        application.add_handler(CommandHandler('canal', send_to_channel))
+        application.add_handler(CommandHandler('time', set_time_sleep))
+        print('bot iniciado...')
+        application.run_polling()
+    except:
+        print(f'Adicione a API TOKEN no arquivo \"{path_file_json_config}\" para o bot funcionar\n'
+              f'OBS.: Adicione tabém as configurações de do ID do Canal ou Grupo, '
+              f'ID da Magazine Luiza e o Link do seu grupo ou canal')
