@@ -18,7 +18,7 @@
  {},
  [],
  [],
- '3.11.6 (tags/v3.11.6:8b6ee5b, Oct  2 2023, 14:57:12) [MSC v.1935 64 bit '
+ '3.11.7 (tags/v3.11.7:fa7a6f2, Dec  4 2023, 19:24:49) [MSC v.1937 64 bit '
  '(AMD64)]',
  [('pyi_rth_inspect',
    'E:\\Meus '
@@ -47,383 +47,383 @@
    'PYMODULE'),
   ('importlib.util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\util.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py',
    'PYMODULE'),
   ('importlib._bootstrap_external',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap_external.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap_external.py',
    'PYMODULE'),
   ('importlib.metadata',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\__init__.py',
    'PYMODULE'),
   ('typing',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\typing.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\typing.py',
    'PYMODULE'),
   ('importlib.metadata._itertools',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py',
    'PYMODULE'),
   ('importlib.metadata._functools',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py',
    'PYMODULE'),
   ('importlib.metadata._collections',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_collections.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_collections.py',
    'PYMODULE'),
   ('importlib.metadata._meta',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_meta.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_meta.py',
    'PYMODULE'),
   ('importlib.metadata._adapters',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_adapters.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_adapters.py',
    'PYMODULE'),
   ('importlib.metadata._text',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py',
    'PYMODULE'),
   ('email.message',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\message.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\message.py',
    'PYMODULE'),
   ('email.policy',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py',
    'PYMODULE'),
   ('email.contentmanager',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py',
    'PYMODULE'),
   ('email.quoprimime',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py',
    'PYMODULE'),
   ('string',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\string.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\string.py',
    'PYMODULE'),
   ('email.headerregistry',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py',
    'PYMODULE'),
   ('email._header_value_parser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
    'PYMODULE'),
   ('email.iterators',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py',
    'PYMODULE'),
   ('email.generator',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\generator.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\generator.py',
    'PYMODULE'),
   ('copy',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\copy.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\copy.py',
    'PYMODULE'),
   ('random',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\random.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\random.py',
    'PYMODULE'),
   ('statistics',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\statistics.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\statistics.py',
    'PYMODULE'),
   ('decimal',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
    'PYMODULE'),
   ('_pydecimal',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_pydecimal.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_pydecimal.py',
    'PYMODULE'),
   ('contextvars',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\contextvars.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\contextvars.py',
    'PYMODULE'),
   ('fractions',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
    'PYMODULE'),
   ('numbers',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\numbers.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\numbers.py',
    'PYMODULE'),
   ('hashlib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
    'PYMODULE'),
   ('logging',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py',
    'PYMODULE'),
   ('pickle',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\dataclasses.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\dataclasses.py',
    'PYMODULE'),
   ('inspect',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
    'PYMODULE'),
   ('argparse',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py',
    'PYMODULE'),
   ('shutil',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
    'PYMODULE'),
   ('tarfile',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
    'PYMODULE'),
   ('gzip',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py',
    'PYMODULE'),
   ('_compression',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py',
    'PYMODULE'),
   ('lzma',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py',
    'PYMODULE'),
   ('bz2',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
    'PYMODULE'),
   ('fnmatch',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
    'PYMODULE'),
   ('gettext',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py',
    'PYMODULE'),
   ('token',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
    'PYMODULE'),
   ('importlib.machinery',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\machinery.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\machinery.py',
    'PYMODULE'),
   ('dis',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\dis.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\dis.py',
    'PYMODULE'),
   ('opcode',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py',
    'PYMODULE'),
   ('ast',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
    'PYMODULE'),
   ('_compat_pickle',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
    'PYMODULE'),
   ('struct',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\struct.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\struct.py',
    'PYMODULE'),
   ('threading',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
    'PYMODULE'),
   ('_threading_local',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_threading_local.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_threading_local.py',
    'PYMODULE'),
   ('bisect',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
    'PYMODULE'),
   ('email._encoded_words',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py',
    'PYMODULE'),
   ('base64',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\base64.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\base64.py',
    'PYMODULE'),
   ('getopt',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py',
    'PYMODULE'),
   ('email.charset',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\charset.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\charset.py',
    'PYMODULE'),
   ('email.encoders',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py',
    'PYMODULE'),
   ('email.base64mime',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py',
    'PYMODULE'),
   ('email._policybase',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_policybase.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\_policybase.py',
    'PYMODULE'),
   ('email.header',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\header.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\header.py',
    'PYMODULE'),
   ('email.errors',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\errors.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\errors.py',
    'PYMODULE'),
   ('email.utils',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
    'PYMODULE'),
   ('email._parseaddr',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\_parseaddr.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\_parseaddr.py',
    'PYMODULE'),
   ('calendar',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\calendar.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\calendar.py',
    'PYMODULE'),
   ('urllib.parse',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
    'PYMODULE'),
   ('ipaddress',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
    'PYMODULE'),
   ('datetime',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\datetime.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\datetime.py',
    'PYMODULE'),
   ('_strptime',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
    'PYMODULE'),
   ('socket',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\socket.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\socket.py',
    'PYMODULE'),
   ('selectors',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py',
    'PYMODULE'),
   ('quopri',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\quopri.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\quopri.py',
    'PYMODULE'),
   ('textwrap',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\zipfile.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\zipfile.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py',
    'PYMODULE'),
   ('pathlib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py',
    'PYMODULE'),
   ('email',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\__init__.py',
    'PYMODULE'),
   ('email.parser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\parser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\parser.py',
    'PYMODULE'),
   ('email.feedparser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\email\\feedparser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\feedparser.py',
    'PYMODULE'),
   ('csv',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
    'PYMODULE'),
   ('importlib.readers',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py',
    'PYMODULE'),
   ('importlib.resources.readers',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py',
    'PYMODULE'),
   ('importlib.resources._itertools',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py',
    'PYMODULE'),
   ('importlib.resources.abc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py',
    'PYMODULE'),
   ('importlib.resources',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py',
    'PYMODULE'),
   ('importlib.resources._legacy',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_legacy.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_legacy.py',
    'PYMODULE'),
   ('importlib.resources._common',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py',
    'PYMODULE'),
   ('importlib.resources._adapters',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py',
    'PYMODULE'),
   ('tempfile',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py',
    'PYMODULE'),
   ('tokenize',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
    'PYMODULE'),
   ('importlib._bootstrap',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
   ('importlib._abc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py',
    'PYMODULE'),
   ('importlib.abc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\abc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\abc.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
    'PYMODULE'),
   ('setuptools',
    'E:\\Meus '
@@ -435,71 +435,71 @@
    'PYMODULE'),
   ('distutils.version',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\version.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\version.py',
    'PYMODULE'),
   ('distutils',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\__init__.py',
    'PYMODULE'),
   ('distutils.archive_util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\archive_util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\archive_util.py',
    'PYMODULE'),
   ('distutils.dir_util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dir_util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dir_util.py',
    'PYMODULE'),
   ('distutils.file_util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\file_util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\file_util.py',
    'PYMODULE'),
   ('distutils.dep_util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dep_util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dep_util.py',
    'PYMODULE'),
   ('distutils.spawn',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\spawn.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\spawn.py',
    'PYMODULE'),
   ('distutils.debug',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\debug.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\debug.py',
    'PYMODULE'),
   ('subprocess',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py',
    'PYMODULE'),
   ('signal',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
    'PYMODULE'),
   ('distutils.sysconfig',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\sysconfig.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\sysconfig.py',
    'PYMODULE'),
   ('_osx_support',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_osx_support.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_osx_support.py',
    'PYMODULE'),
   ('distutils.text_file',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\text_file.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\text_file.py',
    'PYMODULE'),
   ('sysconfig',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig.py',
    'PYMODULE'),
   ('_aix_support',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py',
    'PYMODULE'),
   ('_bootsubprocess',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_bootsubprocess.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_bootsubprocess.py',
    'PYMODULE'),
   ('distutils.log',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\log.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\log.py',
    'PYMODULE'),
   ('setuptools._distutils.version',
    'E:\\Meus '
@@ -515,15 +515,15 @@
    'PYMODULE'),
   ('distutils.ccompiler',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\ccompiler.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\ccompiler.py',
    'PYMODULE'),
   ('distutils.fancy_getopt',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\fancy_getopt.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\fancy_getopt.py',
    'PYMODULE'),
   ('shlex',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
    'PYMODULE'),
   ('setuptools._distutils.text_file',
    'E:\\Meus '
@@ -543,7 +543,7 @@
    'PYMODULE'),
   ('platform',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
    'PYMODULE'),
   ('setuptools._distutils.py38compat',
    'E:\\Meus '
@@ -555,7 +555,7 @@
    'PYMODULE'),
   ('distutils.msvc9compiler',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\msvc9compiler.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\msvc9compiler.py',
    'PYMODULE'),
   ('setuptools._distutils.msvc9compiler',
    'E:\\Meus '
@@ -591,23 +591,23 @@
    'PYMODULE'),
   ('distutils.versionpredicate',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\versionpredicate.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\versionpredicate.py',
    'PYMODULE'),
   ('distutils.command',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\__init__.py',
    'PYMODULE'),
   ('distutils.cmd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\cmd.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\cmd.py',
    'PYMODULE'),
   ('distutils.dist',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dist.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\dist.py',
    'PYMODULE'),
   ('configparser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
    'PYMODULE'),
   ('setuptools._distutils.dir_util',
    'E:\\Meus '
@@ -627,7 +627,7 @@
    'PYMODULE'),
   ('distutils.unixccompiler',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\unixccompiler.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\unixccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.core',
    'E:\\Meus '
@@ -635,23 +635,23 @@
    'PYMODULE'),
   ('distutils.extension',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\extension.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\extension.py',
    'PYMODULE'),
   ('distutils.config',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\config.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\config.py',
    'PYMODULE'),
   ('cgi',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\cgi.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\cgi.py',
    'PYMODULE'),
   ('html',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
    'PYMODULE'),
   ('html.entities',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
    'PYMODULE'),
   ('setuptools._distutils.config',
    'E:\\Meus '
@@ -663,51 +663,51 @@
    'PYMODULE'),
   ('urllib.request',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
    'PYMODULE'),
   ('getpass',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
    'PYMODULE'),
   ('nturl2path',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\nturl2path.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\nturl2path.py',
    'PYMODULE'),
   ('ftplib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ftplib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ftplib.py',
    'PYMODULE'),
   ('netrc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py',
    'PYMODULE'),
   ('mimetypes',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\mimetypes.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\mimetypes.py',
    'PYMODULE'),
   ('http.cookiejar',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py',
    'PYMODULE'),
   ('http',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\__init__.py',
    'PYMODULE'),
   ('ssl',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ssl.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ssl.py',
    'PYMODULE'),
   ('urllib.response',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
    'PYMODULE'),
   ('urllib.error',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
    'PYMODULE'),
   ('http.client',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
    'PYMODULE'),
   ('setuptools._distutils.command.sdist',
    'E:\\Meus '
@@ -715,11 +715,11 @@
    'PYMODULE'),
   ('distutils.filelist',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\filelist.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\filelist.py',
    'PYMODULE'),
   ('glob',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\glob.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\glob.py',
    'PYMODULE'),
   ('setuptools._distutils.command.register',
    'E:\\Meus '
@@ -755,55 +755,55 @@
    'PYMODULE'),
   ('site',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
    'PYMODULE'),
   ('rlcompleter',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
    'PYMODULE'),
   ('_sitebuiltins',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
    'PYMODULE'),
   ('pydoc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
    'PYMODULE'),
   ('webbrowser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
    'PYMODULE'),
   ('http.server',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
    'PYMODULE'),
   ('socketserver',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
    'PYMODULE'),
   ('pydoc_data.topics',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
    'PYMODULE'),
   ('pydoc_data',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
    'PYMODULE'),
   ('tty',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
    'PYMODULE'),
   ('pkgutil',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pkgutil.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pkgutil.py',
    'PYMODULE'),
   ('zipimport',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\zipimport.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\zipimport.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
    'PYMODULE'),
   ('setuptools._distutils.command.config',
    'E:\\Meus '
@@ -831,187 +831,187 @@
    'PYMODULE'),
   ('distutils._msvccompiler',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\_msvccompiler.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\_msvccompiler.py',
    'PYMODULE'),
   ('concurrent.futures',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures.thread',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('queue',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\queue.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\queue.py',
    'PYMODULE'),
   ('concurrent.futures.process',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
    'PYMODULE'),
   ('multiprocessing.synchronize',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py',
    'PYMODULE'),
   ('multiprocessing.heap',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\heap.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\heap.py',
    'PYMODULE'),
   ('multiprocessing.resource_tracker',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_tracker.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_tracker.py',
    'PYMODULE'),
   ('multiprocessing.spawn',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\spawn.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\spawn.py',
    'PYMODULE'),
   ('runpy',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\runpy.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\runpy.py',
    'PYMODULE'),
   ('multiprocessing.util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\util.py',
    'PYMODULE'),
   ('multiprocessing.forkserver',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\forkserver.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\forkserver.py',
    'PYMODULE'),
   ('multiprocessing.process',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\process.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\process.py',
    'PYMODULE'),
   ('multiprocessing.context',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\context.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\context.py',
    'PYMODULE'),
   ('multiprocessing.popen_spawn_win32',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_win32.py',
    'PYMODULE'),
   ('multiprocessing.popen_forkserver',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_forkserver.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_forkserver.py',
    'PYMODULE'),
   ('multiprocessing.popen_spawn_posix',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_posix.py',
    'PYMODULE'),
   ('multiprocessing.popen_fork',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_fork.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_fork.py',
    'PYMODULE'),
   ('multiprocessing.sharedctypes',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\sharedctypes.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\sharedctypes.py',
    'PYMODULE'),
   ('ctypes',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
    'PYMODULE'),
   ('ctypes._endian',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
    'PYMODULE'),
   ('multiprocessing.pool',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\pool.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\pool.py',
    'PYMODULE'),
   ('multiprocessing.dummy',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\__init__.py',
    'PYMODULE'),
   ('multiprocessing.dummy.connection',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\connection.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\connection.py',
    'PYMODULE'),
   ('multiprocessing.managers',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\managers.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\managers.py',
    'PYMODULE'),
   ('multiprocessing.shared_memory',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\shared_memory.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\shared_memory.py',
    'PYMODULE'),
   ('secrets',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\secrets.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\secrets.py',
    'PYMODULE'),
   ('hmac',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\hmac.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\hmac.py',
    'PYMODULE'),
   ('multiprocessing.reduction',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\reduction.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\reduction.py',
    'PYMODULE'),
   ('multiprocessing.resource_sharer',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_sharer.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_sharer.py',
    'PYMODULE'),
   ('multiprocessing.queues',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py',
    'PYMODULE'),
   ('multiprocessing.connection',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\connection.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\connection.py',
    'PYMODULE'),
   ('xmlrpc.client',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py',
    'PYMODULE'),
   ('xmlrpc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py',
    'PYMODULE'),
   ('xml.parsers.expat',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py',
    'PYMODULE'),
   ('xml.parsers',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py',
    'PYMODULE'),
   ('xml',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py',
    'PYMODULE'),
   ('xml.sax.expatreader',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\expatreader.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\expatreader.py',
    'PYMODULE'),
   ('xml.sax.saxutils',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\saxutils.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\saxutils.py',
    'PYMODULE'),
   ('xml.sax',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\__init__.py',
    'PYMODULE'),
   ('xml.sax.handler',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\handler.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\handler.py',
    'PYMODULE'),
   ('xml.sax._exceptions',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\_exceptions.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\_exceptions.py',
    'PYMODULE'),
   ('xml.sax.xmlreader',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\xmlreader.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\xmlreader.py',
    'PYMODULE'),
   ('multiprocessing',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures._base',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
    'PYMODULE'),
   ('concurrent',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build_clib',
    'E:\\Meus '
@@ -1063,183 +1063,183 @@
    'PYMODULE'),
   ('unittest.mock',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\mock.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\mock.py',
    'PYMODULE'),
   ('unittest',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py',
    'PYMODULE'),
   ('unittest.async_case',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\async_case.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\async_case.py',
    'PYMODULE'),
   ('unittest.signals',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py',
    'PYMODULE'),
   ('unittest.main',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py',
    'PYMODULE'),
   ('unittest.runner',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py',
    'PYMODULE'),
   ('unittest.loader',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py',
    'PYMODULE'),
   ('unittest.suite',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py',
    'PYMODULE'),
   ('unittest.case',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py',
    'PYMODULE'),
   ('unittest._log',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\_log.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\_log.py',
    'PYMODULE'),
   ('difflib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
    'PYMODULE'),
   ('unittest.result',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py',
    'PYMODULE'),
   ('unittest.util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py',
    'PYMODULE'),
   ('asyncio',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
    'PYMODULE'),
   ('asyncio.unix_events',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
    'PYMODULE'),
   ('asyncio.log',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
    'PYMODULE'),
   ('asyncio.windows_events',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
    'PYMODULE'),
   ('asyncio.windows_utils',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
    'PYMODULE'),
   ('asyncio.selector_events',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
    'PYMODULE'),
   ('asyncio.proactor_events',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
    'PYMODULE'),
   ('asyncio.base_subprocess',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
    'PYMODULE'),
   ('asyncio.threads',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
    'PYMODULE'),
   ('asyncio.timeouts',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
    'PYMODULE'),
   ('asyncio.taskgroups',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
    'PYMODULE'),
   ('asyncio.subprocess',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
    'PYMODULE'),
   ('asyncio.streams',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
    'PYMODULE'),
   ('asyncio.queues',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
    'PYMODULE'),
   ('asyncio.runners',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
    'PYMODULE'),
   ('asyncio.base_events',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
    'PYMODULE'),
   ('asyncio.trsock',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
    'PYMODULE'),
   ('asyncio.staggered',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
    'PYMODULE'),
   ('asyncio.tasks',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
    'PYMODULE'),
   ('asyncio.locks',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
    'PYMODULE'),
   ('asyncio.base_tasks',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
    'PYMODULE'),
   ('asyncio.mixins',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
    'PYMODULE'),
   ('asyncio.sslproto',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
    'PYMODULE'),
   ('asyncio.transports',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
    'PYMODULE'),
   ('asyncio.protocols',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
    'PYMODULE'),
   ('asyncio.futures',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
    'PYMODULE'),
   ('asyncio.base_futures',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
    'PYMODULE'),
   ('asyncio.exceptions',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
    'PYMODULE'),
   ('asyncio.events',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
    'PYMODULE'),
   ('asyncio.format_helpers',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
    'PYMODULE'),
   ('asyncio.coroutines',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
    'PYMODULE'),
   ('asyncio.constants',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
    'PYMODULE'),
   ('setuptools._distutils._macos_compat',
    'E:\\Meus '
@@ -1315,23 +1315,23 @@
    'PYMODULE'),
   ('pdb',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\pdb.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\pdb.py',
    'PYMODULE'),
   ('code',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
    'PYMODULE'),
   ('codeop',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
    'PYMODULE'),
   ('bdb',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\bdb.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\bdb.py',
    'PYMODULE'),
   ('cmd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\cmd.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\cmd.py',
    'PYMODULE'),
   ('setuptools._vendor.pyparsing.common',
    'E:\\Meus '
@@ -1503,7 +1503,7 @@
    'PYMODULE'),
   ('distutils.command.build_ext',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build_ext.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build_ext.py',
    'PYMODULE'),
   ('setuptools.logging',
    'E:\\Meus '
@@ -1583,7 +1583,7 @@
    'PYMODULE'),
   ('distutils.command.build',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\build.py',
    'PYMODULE'),
   ('setuptools.command.py36compat',
    'E:\\Meus '
@@ -1591,7 +1591,7 @@
    'PYMODULE'),
   ('distutils.command.sdist',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\sdist.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\sdist.py',
    'PYMODULE'),
   ('pkg_resources',
    'E:\\Meus '
@@ -1823,11 +1823,11 @@
    'PYMODULE'),
   ('imp',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\imp.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\imp.py',
    'PYMODULE'),
   ('plistlib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\plistlib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\plistlib.py',
    'PYMODULE'),
   ('setuptools.config.pyprojecttoml',
    'E:\\Meus '
@@ -1879,7 +1879,7 @@
    'PYMODULE'),
   ('distutils.command.bdist',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\bdist.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\command\\bdist.py',
    'PYMODULE'),
   ('setuptools._importlib',
    'E:\\Meus '
@@ -1915,15 +1915,15 @@
    'PYMODULE'),
   ('distutils.util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\util.py',
    'PYMODULE'),
   ('distutils.errors',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\errors.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\errors.py',
    'PYMODULE'),
   ('distutils.core',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\core.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\core.py',
    'PYMODULE'),
   ('_distutils_hack.override',
    'E:\\Meus '
@@ -1933,17 +1933,17 @@
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('stringprep',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
    'PYMODULE'),
-  ('stringprep',
+  ('tracemalloc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('selenium.webdriver.common.by',
    'E:\\Meus '
@@ -2219,7 +2219,7 @@
    'PYMODULE'),
   ('colorsys',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py',
    'PYMODULE'),
   ('PIL.ImageFilter',
    'E:\\Meus '
@@ -2295,27 +2295,27 @@
    'PYMODULE'),
   ('ctypes.util',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
    'PYMODULE'),
   ('ctypes._aix',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
    'PYMODULE'),
   ('ctypes.macholib.dyld',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
    'PYMODULE'),
   ('ctypes.macholib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
    'PYMODULE'),
   ('ctypes.macholib.dylib',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
    'PYMODULE'),
   ('ctypes.macholib.framework',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
    'PYMODULE'),
   ('cffi.recompiler',
    'E:\\Meus '
@@ -2710,7 +2710,7 @@
    'PYMODULE'),
   ('uuid',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
    'PYMODULE'),
   ('selenium.webdriver.remote.mobile',
    'E:\\Meus '
@@ -2790,35 +2790,35 @@
    'PYMODULE'),
   ('xml.dom.minidom',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minidom.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minidom.py',
    'PYMODULE'),
   ('xml.dom.pulldom',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\pulldom.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\pulldom.py',
    'PYMODULE'),
   ('xml.dom.expatbuilder',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\expatbuilder.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\expatbuilder.py',
    'PYMODULE'),
   ('xml.dom.NodeFilter',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\NodeFilter.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\NodeFilter.py',
    'PYMODULE'),
   ('xml.dom.xmlbuilder',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\xmlbuilder.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\xmlbuilder.py',
    'PYMODULE'),
   ('xml.dom.minicompat',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minicompat.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minicompat.py',
    'PYMODULE'),
   ('xml.dom.domreg',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\domreg.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\domreg.py',
    'PYMODULE'),
   ('xml.dom',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\__init__.py',
    'PYMODULE'),
   ('selenium.webdriver.edge.webdriver',
    'E:\\Meus '
@@ -2997,11 +2997,11 @@
    'PYMODULE'),
   ('html.parser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py',
    'PYMODULE'),
   ('_markupbase',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py',
    'PYMODULE'),
   ('telegram.ext.filters',
    'E:\\Meus '
@@ -4485,7 +4485,7 @@
    'PYMODULE'),
   ('http.cookies',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookies.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookies.py',
    'PYMODULE'),
   ('requests.models',
    'E:\\Meus '
@@ -4541,19 +4541,19 @@
    'PYMODULE'),
   ('json',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py',
    'PYMODULE'),
   ('json.encoder',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py',
    'PYMODULE'),
   ('json.decoder',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py',
    'PYMODULE'),
   ('json.scanner',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
    'PYMODULE')],
  [('selenium\\webdriver\\common\\windows\\selenium-manager.exe',
    'E:\\Meus '
@@ -4561,63 +4561,63 @@
    'BINARY'),
   ('python311.dll',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\python311.dll',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\python311.dll',
    'BINARY'),
   ('_decimal.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
    'EXTENSION'),
   ('_lzma.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
    'EXTENSION'),
   ('_bz2.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
    'EXTENSION'),
   ('_hashlib.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
    'EXTENSION'),
   ('unicodedata.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('select.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
    'EXTENSION'),
   ('_socket.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
    'EXTENSION'),
   ('_ssl.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
    'EXTENSION'),
   ('_queue.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
    'EXTENSION'),
   ('_ctypes.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
   ('_multiprocessing.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
    'EXTENSION'),
   ('pyexpat.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
    'EXTENSION'),
   ('_overlapped.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
   ('_asyncio.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
    'EXTENSION'),
   ('PIL\\_webp.cp311-win_amd64.pyd',
    'E:\\Meus '
@@ -4641,7 +4641,7 @@
    'EXTENSION'),
   ('_uuid.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
    'EXTENSION'),
   ('charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
    'E:\\Meus '
@@ -4651,69 +4651,69 @@
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
    'EXTENSION'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-heap-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-time-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
    'BINARY'),
   ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
   ('libcrypto-3.dll',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
    'BINARY'),
   ('libssl-3.dll',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-3.dll',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-3.dll',
    'BINARY'),
   ('libffi-8.dll',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
    'BINARY'),
   ('api-ms-win-crt-utility-l1-1-0.dll',
    'C:\\Program '
@@ -4722,214 +4722,370 @@
   ('ucrtbase.dll',
    'C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
+  ('api-ms-win-core-timezone-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-heap-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-processenvironment-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
    'BINARY'),
   ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
+  ('api-ms-win-core-localization-l1-2-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
+  ('api-ms-win-core-profile-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-debug-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
+  ('api-ms-win-core-file-l2-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-synch-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+  ('api-ms-win-core-memory-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-errorhandling-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
    'BINARY')],
  [],
  [],
  [('base_library.zip',
    'E:\\Meus Projetos\\Python\\Auto_Bot\\build\\main\\base_library.zip',
    'DATA'),
-  ('certifi\\cacert.pem',
+  ('certifi\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('certifi\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\desktop.ini',
    'DATA'),
   ('certifi\\py.typed',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+  ('certifi\\cacert.pem',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
    'DATA'),
-  ('selenium\\webdriver\\remote\\findElements.js',
+  ('selenium\\webdriver\\common\\devtools\\v119\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\findElements.js',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\__pycache__\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\macos\\selenium-manager',
+  ('selenium\\webdriver\\common\\windows\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\selenium-manager',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\windows\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\remote\\isDisplayed.js',
+  ('selenium\\webdriver\\common\\devtools\\v119\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v119\\py.typed',
+  ('selenium\\webdriver\\common\\actions\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\py.typed',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\__pycache__\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\remote\\getAttribute.js',
+  ('selenium\\webdriver\\common\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v118\\py.typed',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\py.typed',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\__pycache__\\desktop.ini',
    'DATA'),
   ('selenium\\py.typed',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\py.typed',
    'DATA'),
-  ('selenium\\webdriver\\common\\linux\\selenium-manager',
+  ('selenium\\webdriver\\webkitgtk\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\selenium-manager',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v117\\py.typed',
+  ('selenium\\webdriver\\ie\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\py.typed',
-   'DATA'),
-  ('selenium\\webdriver\\common\\mutation-listener.js',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\mutation-listener.js',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\__pycache__\\desktop.ini',
    'DATA'),
   ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\top_level.txt',
+  ('selenium\\webdriver\\common\\devtools\\v119\\py.typed',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\top_level.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\py.typed',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\WHEEL',
+  ('selenium\\webdriver\\remote\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\WHEEL',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\desktop.ini',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\METADATA',
+  ('selenium\\webdriver\\common\\linux\\selenium-manager',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\METADATA',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\selenium-manager',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\RECORD',
+  ('selenium\\webdriver\\remote\\isDisplayed.js',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\RECORD',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\top_level.txt',
+  ('selenium\\webdriver\\support\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\top_level.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\desktop.ini',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\entry_points.txt',
+  ('selenium\\webdriver\\chromium\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\entry_points.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\desktop.ini',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\RECORD',
+  ('selenium\\webdriver\\remote\\getAttribute.js',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\RECORD',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\WHEEL',
+  ('selenium\\webdriver\\common\\devtools\\v85\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\WHEEL',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\desktop.ini',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\LICENSE.txt',
+  ('selenium\\webdriver\\common\\linux\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\LICENSE.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\desktop.ini',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\licenses\\LICENSE',
+  ('selenium\\webdriver\\common\\bidi\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\LICENSE',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\common\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\html5\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\support\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v118\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\desktop.ini',
+   'DATA'),
+  ('selenium\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\macos\\selenium-manager',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\selenium-manager',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v117\\py.typed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\macos\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\webkitgtk\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v117\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\desktop.ini',
+   'DATA'),
+  ('selenium\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v85\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\findElements.js',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\findElements.js',
+   'DATA'),
+  ('selenium\\webdriver\\common\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v117\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\mutation-listener.js',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\mutation-listener.js',
+   'DATA'),
+  ('selenium\\common\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\html5\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v118\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v118\\py.typed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\py.typed',
    'DATA'),
   ('setuptools-65.5.1.dist-info\\entry_points.txt',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\entry_points.txt',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\METADATA',
+  ('attrs-23.1.0.dist-info\\licenses\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\METADATA',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\desktop.ini',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\desktop.ini',
    'DATA'),
   ('setuptools-65.5.1.dist-info\\WHEEL',
    'E:\\Meus '
@@ -4939,17 +5095,9 @@
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\METADATA',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\RECORD',
+  ('attrs-23.1.0.dist-info\\WHEEL',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\RECORD',
-   'DATA'),
-  ('setuptools-65.5.1.dist-info\\INSTALLER',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\INSTALLER',
-   'DATA'),
-  ('wheel-0.38.4.dist-info\\INSTALLER',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\INSTALLER',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\WHEEL',
    'DATA'),
   ('attrs-23.1.0.dist-info\\INSTALLER',
    'E:\\Meus '
@@ -4958,4 +5106,64 @@
   ('setuptools-65.5.1.dist-info\\LICENSE',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\LICENSE',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\RECORD',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\RECORD',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\INSTALLER',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\entry_points.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\INSTALLER',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\METADATA',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\LICENSE.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\WHEEL',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\top_level.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\top_level.txt',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\licenses\\LICENSE',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\METADATA',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\RECORD',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\desktop.ini',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\desktop.ini',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\top_level.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\top_level.txt',
    'DATA')])
