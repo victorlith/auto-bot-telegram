@@ -3,7 +3,7 @@ import re
 import time
 import requests
 import gdshortener
-from telegram import Update
+from telegram import Update, Bot
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -12,6 +12,7 @@ from PIL import Image
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import os
+import csv
 
 
 path_file_json_config = 'config.json'
@@ -206,36 +207,79 @@ async def send_to_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
     tempo = load_time_sleep()
     count_number = 0
     link = url.split(' ')
-    await update.message.reply_text(
-        f'⚙️ Preparando link(s)...\n⏱️ Time sleep: {tempo} segundos\n🔗 Total de Links: {len(link)}')
-    tempo_inicial = time.time()
-    try:
-        for ln in link:
-            count_number += 1
+
+    if url == 'aliexpress':
+        count = 0
+
+        await update.message.reply_text(f'⚙️ Preparando link(s)...\n⏱️ Time sleep: {tempo} segundos')
+        time.sleep(5)
+
+        try:
+            chat_id = '-1002102705353'
+            file_path = r'produtos_aliexpress.csv'
+            with open(file_path, 'r', encoding='utf-8') as file:
+                dados = csv.DictReader(file)
+
+                for l in dados:
+                    count += 1
+                    nome = l['Product Desc']
+                    preco = l['Discount Price']
+                    img_link = l['Image Url']
+                    link_af = l['Promotion Url']
+
+                    img_request = requests.get(img_link)
+                    img = Image.open(BytesIO(img_request.content))
+                    img.save('img_product.png')
+
+                    valor = preco.split('BRL')
+
+                    text = f'👉 {nome}\n\n💶 R${valor[1]}\n✅ {link_af}\n\n🔻Grupos de ofertas:\nhttps://beacons.ai/promotionsday'
+
+                    await context.bot.send_photo(chat_id=chat_id, photo=open('img_product.png', 'rb'), caption=text)
+                    await update.message.reply_text(f'☑️ Link {count} enviado!')
+                    time.sleep(tempo)
+        except Exception as e:
+            print(f'Erro: {e}')
+        finally:
+            await update.message.reply_text(f'✅ Tarefa Concluida!\n🔗 Total de Links: {count}')
+    else:
+        if url == ' ':
+            await update.message.reply_text('Comando vazio!')
+        else:
+            await update.message.reply_text(
+                f'⚙️ Preparando link(s)...\n⏱️ Time sleep: {tempo} segundos\n🔗 Total de Links: {len(link)}')
+
+            tempo_inicial = time.time()
             try:
-                ti = time.time()
-                dados = MarketPlace(ln)
-                path_img = 'img.png'
-                text = (f'📢 {dados.product_name}\n\n💶 {dados.money_amount}\n🎟 CUPOM: \n✅ {dados.url}\n\n▶️Grupos de ofertas:\n'
-                        f'{link_grupo}')
-                await context.bot.send_photo(chat_id=chat_id, photo=open(path_img, 'rb'), caption=text)
-                tf = time.time()
-                await update.message.reply_text(f'☑️ Link {count_number} enviado! ⏱️ Tempo: {(tf - ti):.2f} segundos')
-                print(f'Tarefa executada... CHAT_ID: {update.message.chat.id} CHAT_TYPE: {update.message.chat.type}')
-                if count_number == len(link):
-                    break
-                time.sleep(tempo)
+                for ln in link:
+                    count_number += 1
+                    try:
+                        ti = time.time()
+                        dados = MarketPlace(ln)
+                        path_img = 'img.png'
+                        text = (
+                            f'📢 {dados.product_name}\n\n💶 {dados.money_amount}\n🎟 CUPOM: \n✅ {dados.url}\n\n▶️Grupos de ofertas:\n'
+                            f'{link_grupo}')
+                        await context.bot.send_photo(chat_id=chat_id, photo=open(path_img, 'rb'), caption=text)
+                        tf = time.time()
+                        await update.message.reply_text(
+                            f'☑️ Link {count_number} enviado! ⏱️ Tempo: {(tf - ti):.2f} segundos')
+                        print(
+                            f'Tarefa executada... CHAT_ID: {update.message.chat.id} CHAT_TYPE: {update.message.chat.type}')
+                        if count_number == len(link):
+                            break
+                        time.sleep(tempo)
+                    except Exception as e:
+                        await update.message.reply_text(f'❌ Link {count_number} falhou!')
+                        print(f'Erro: {e}')
+                        continue
             except Exception as e:
-                await update.message.reply_text(f'❌ Link {count_number} falhou!')
+                await update.message.reply_text(f'❌Erro: {e}')
                 print(f'Erro: {e}')
-                continue
-    except Exception as e:
-        await update.message.reply_text(f'❌Erro: {e}')
-        print(f'Erro: {e}')
-    finally:
-        await update.message.reply_text('✅ Tarefa conluida!')
-    tempo_final = time.time()
-    print(f'Tempo de execução: {(tempo_final - tempo_inicial):.2f} segundos')
+            finally:
+                await update.message.reply_text('✅ Tarefa conluida!')
+            tempo_final = time.time()
+            print(f'Tempo de execução: {(tempo_final - tempo_inicial):.2f} segundos')
 
 
 async def send_to_channel(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -270,7 +314,7 @@ async def send_to_channel(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(f'❌Erro: {e}')
         print(f'Erro: {e}')
     finally:
-        await update.message.reply_text('✅ Tarefa conluida!')
+        await update.message.reply_text('✅ Tarefa concluida!')
     tempo_final = time.time()
     print(f'Tempo de execução: {(tempo_final - tempo_inicial):.2f} segundos')
 
@@ -308,7 +352,7 @@ async def send_to_testChanel(update: Update, context: ContextTypes.DEFAULT_TYPE)
         await update.message.reply_text(f'❌Erro: {e}')
         print(f'Erro: {e}')
     finally:
-        await update.message.reply_text('✅ Tarefa conluida!')
+        await update.message.reply_text('✅ Tarefa concluida!')
     tempo_final = time.time()
     print(f'Tempo de execução: {(tempo_final - tempo_inicial):.2f} segundos')
 
@@ -354,7 +398,7 @@ async def super_send_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(f'❌Erro: {e}')
         print(f'Erro: {e}')
     finally:
-        await update.message.reply_text('✅ Tarefa conluida!')
+        await update.message.reply_text('✅ Tarefa concluida!')
     tempo_final = time.time()
     print(f'Tempo de execução: {(tempo_final - tempo_inicial):.2f} segundos')
 

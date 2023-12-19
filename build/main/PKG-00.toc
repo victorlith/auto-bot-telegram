@@ -152,37 +152,21 @@
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
    'EXTENSION'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-time-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-math-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-conio-l1-1-0.dll',
    'C:\\Program '
@@ -192,17 +176,33 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+  ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
-  ('VCRUNTIME140.dll',
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
    'BINARY'),
   ('libcrypto-3.dll',
    'C:\\Program '
@@ -223,53 +223,9 @@
   ('ucrtbase.dll',
    'C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-2-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
-   'BINARY'),
   ('api-ms-win-core-libraryloader-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-file-l2-1-0.dll',
    'C:\\Program '
@@ -279,52 +235,100 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
+  ('api-ms-win-core-datetime-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
+  ('api-ms-win-core-file-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-util-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
+  ('api-ms-win-core-timezone-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-errorhandling-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
   ('base_library.zip',
    'E:\\Meus Projetos\\Python\\Auto_Bot\\build\\main\\base_library.zip',
+   'DATA'),
+  ('certifi\\py.typed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
   ('certifi\\__pycache__\\desktop.ini',
    'E:\\Meus '
@@ -334,337 +338,333 @@
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\desktop.ini',
    'DATA'),
-  ('certifi\\py.typed',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\py.typed',
-   'DATA'),
   ('certifi\\cacert.pem',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v119\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\windows\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\windows\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v119\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\actions\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\py.typed',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\py.typed',
    'DATA'),
   ('selenium\\webdriver\\webkitgtk\\desktop.ini',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\ie\\__pycache__\\desktop.ini',
+  ('selenium\\webdriver\\common\\actions\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
+  ('selenium\\py.typed',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v119\\py.typed',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\py.typed',
-   'DATA'),
-  ('selenium\\webdriver\\remote\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\linux\\selenium-manager',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\selenium-manager',
-   'DATA'),
-  ('selenium\\webdriver\\remote\\isDisplayed.js',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
-   'DATA'),
-  ('selenium\\webdriver\\support\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\chromium\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\remote\\getAttribute.js',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v85\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\linux\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\bidi\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\remote\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\common\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\html5\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\support\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\bidi\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\py.typed',
    'DATA'),
   ('selenium\\webdriver\\__pycache__\\desktop.ini',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\__pycache__\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\chromium\\__pycache__\\desktop.ini',
+  ('selenium\\webdriver\\common\\actions\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v118\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\desktop.ini',
-   'DATA'),
-  ('selenium\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\__pycache__\\desktop.ini',
    'DATA'),
   ('selenium\\webdriver\\chrome\\desktop.ini',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\wpewebkit\\__pycache__\\desktop.ini',
+  ('selenium\\webdriver\\common\\devtools\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\edge\\__pycache__\\desktop.ini',
+  ('selenium\\webdriver\\common\\bidi\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\macos\\selenium-manager',
+  ('selenium\\webdriver\\common\\devtools\\v119\\py.typed',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\selenium-manager',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\py.typed',
    'DATA'),
-  ('selenium\\webdriver\\ie\\desktop.ini',
+  ('selenium\\webdriver\\support\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\__pycache__\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v117\\py.typed',
+  ('selenium\\webdriver\\chromium\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\py.typed',
-   'DATA'),
-  ('selenium\\webdriver\\safari\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\safari\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\wpewebkit\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\macos\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\desktop.ini',
    'DATA'),
   ('selenium\\webdriver\\webkitgtk\\__pycache__\\desktop.ini',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\__pycache__\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\firefox\\__pycache__\\desktop.ini',
+  ('selenium\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\__pycache__\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v117\\__pycache__\\desktop.ini',
+  ('selenium\\webdriver\\common\\macos\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+  ('selenium\\webdriver\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\firefox\\desktop.ini',
+  ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\desktop.ini',
-   'DATA'),
-  ('selenium\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v85\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\actions\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\remote\\findElements.js',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\findElements.js',
-   'DATA'),
-  ('selenium\\webdriver\\common\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\chrome\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__pycache__\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v117\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\edge\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\desktop.ini',
-   'DATA'),
-  ('selenium\\webdriver\\common\\mutation-listener.js',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\mutation-listener.js',
-   'DATA'),
-  ('selenium\\common\\__pycache__\\desktop.ini',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
    'DATA'),
   ('selenium\\webdriver\\common\\html5\\desktop.ini',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\desktop.ini',
    'DATA'),
-  ('selenium\\webdriver\\common\\devtools\\v118\\__pycache__\\desktop.ini',
+  ('selenium\\webdriver\\edge\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\__pycache__\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\__pycache__\\desktop.ini',
    'DATA'),
   ('selenium\\webdriver\\common\\devtools\\v118\\py.typed',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\py.typed',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\entry_points.txt',
+  ('selenium\\webdriver\\common\\devtools\\v117\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\entry_points.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\desktop.ini',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\licenses\\desktop.ini',
+  ('selenium\\webdriver\\firefox\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\desktop.ini',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\desktop.ini',
+  ('selenium\\webdriver\\common\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\desktop.ini',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\WHEEL',
+  ('selenium\\webdriver\\safari\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\WHEEL',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\__pycache__\\desktop.ini',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\METADATA',
+  ('selenium\\webdriver\\remote\\findElements.js',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\METADATA',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\findElements.js',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\WHEEL',
+  ('selenium\\webdriver\\remote\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\WHEEL',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\desktop.ini',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\INSTALLER',
+  ('selenium\\webdriver\\common\\devtools\\v85\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\INSTALLER',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\__pycache__\\desktop.ini',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\LICENSE',
+  ('selenium\\webdriver\\wpewebkit\\__pycache__\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\LICENSE',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\support\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\edge\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v119\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\ie\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\linux\\selenium-manager',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\selenium-manager',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\windows\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\windows\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\mutation-listener.js',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\mutation-listener.js',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v117\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v117\\py.typed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\getAttribute.js',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\common\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v118\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'DATA'),
+  ('selenium\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\isDisplayed.js',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\linux\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v118\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v119\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\common\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\common\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\macos\\selenium-manager',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\selenium-manager',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v85\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\desktop.ini',
+   'DATA'),
+  ('selenium\\webdriver\\common\\html5\\__pycache__\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\__pycache__\\desktop.ini',
    'DATA'),
   ('wheel-0.38.4.dist-info\\RECORD',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\RECORD',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\RECORD',
+  ('attrs-23.1.0.dist-info\\INSTALLER',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\RECORD',
-   'DATA'),
-  ('setuptools-65.5.1.dist-info\\INSTALLER',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\INSTALLER',
-   'DATA'),
-  ('wheel-0.38.4.dist-info\\entry_points.txt',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\entry_points.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\INSTALLER',
    'DATA'),
   ('wheel-0.38.4.dist-info\\INSTALLER',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\INSTALLER',
    'DATA'),
-  ('wheel-0.38.4.dist-info\\METADATA',
+  ('attrs-23.1.0.dist-info\\WHEEL',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\METADATA',
-   'DATA'),
-  ('wheel-0.38.4.dist-info\\LICENSE.txt',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\LICENSE.txt',
-   'DATA'),
-  ('wheel-0.38.4.dist-info\\WHEEL',
-   'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\WHEEL',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\WHEEL',
    'DATA'),
   ('wheel-0.38.4.dist-info\\top_level.txt',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\top_level.txt',
    'DATA'),
+  ('wheel-0.38.4.dist-info\\LICENSE.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\INSTALLER',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\LICENSE',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\RECORD',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\RECORD',
+   'DATA'),
   ('attrs-23.1.0.dist-info\\licenses\\LICENSE',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\LICENSE',
    'DATA'),
-  ('attrs-23.1.0.dist-info\\METADATA',
+  ('attrs-23.1.0.dist-info\\licenses\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\METADATA',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\desktop.ini',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\top_level.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\WHEEL',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\desktop.ini',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\desktop.ini',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\entry_points.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\entry_points.txt',
    'DATA'),
   ('attrs-23.1.0.dist-info\\RECORD',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\RECORD',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\desktop.ini',
+  ('attrs-23.1.0.dist-info\\METADATA',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\desktop.ini',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\METADATA',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\METADATA',
    'DATA'),
   ('attrs-23.1.0.dist-info\\desktop.ini',
    'E:\\Meus '
    'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\attrs-23.1.0.dist-info\\desktop.ini',
    'DATA'),
-  ('setuptools-65.5.1.dist-info\\top_level.txt',
+  ('setuptools-65.5.1.dist-info\\desktop.ini',
    'E:\\Meus '
-   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\top_level.txt',
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\desktop.ini',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\entry_points.txt',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-65.5.1.dist-info\\WHEEL',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.38.4.dist-info\\METADATA',
+   'E:\\Meus '
+   'Projetos\\Python\\Auto_Bot\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\METADATA',
    'DATA')],
  'python311.dll',
  False,
