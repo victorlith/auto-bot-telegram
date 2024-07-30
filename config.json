@@ -1,10 +1,10 @@
 {
   "timesleep": 1,
-  "token_bot": "6957284918:AAGH7ewMUJDtqfjYGyBKwl3J27AT0amwBTQ",
-  "id_grupo": "-1002080560081",
-  "id_canal": "-1001851569093",
+  "token_bot": "your token here",
+  "id_grupo": "id group",
+  "id_canal": "-id channel",
   "id_magazineluiza": "magazinepromotionsdayof",
   "id_test": "-1002102705353",
-  "link_grupo": "https://t.me/promotionsday_oficial",
-  "link_canal": "https://beacons.ai/promotionsday"
+  "link_grupo": "",
+  "link_canal": ""
 }
